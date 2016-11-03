@@ -1,0 +1,116 @@
+process: 18592total 108
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile~
+-rw-rw-r-- 1 chris chris    14 Nov  2 21:05 out.txt
+-rw-r--r-- 1 chris chris  5815 Nov  2 17:25 p1fxns.c
+-rw-r--r-- 1 chris chris  5815 Nov  1 14:34 p1fxns.c~
+-rw-r--r-- 1 chris chris  2367 Oct  2 17:31 p1fxns.h
+-rw-rw-r-- 1 chris chris 10728 Nov  2 17:27 p1fxns.o
+-rwxrwxr-x 1 chris chris 22168 Nov  2 21:02 thv4
+-rw-rw-r-- 1 chris chris  9165 Nov  2 21:02 thv4.c
+-rw-rw-r-- 1 chris chris  9182 Nov  2 21:02 thv4.c~
+-rw-rw-r-- 1 chris chris 13824 Nov  2 21:02 thv4.o
+
+/proc/18592/status
+This is the name of the process
+This is the state of the process
+/proc/18592/wchan
+This is the execution process
+
+/proc/18592/io
+This is how many chars were read
+This is how many chars were written
+
+process: 18593total 108
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile~
+-rw-rw-r-- 1 chris chris   832 Nov  2 21:05 out.txt
+-rw-r--r-- 1 chris chris  5815 Nov  2 17:25 p1fxns.c
+-rw-r--r-- 1 chris chris  5815 Nov  1 14:34 p1fxns.c~
+-rw-r--r-- 1 chris chris  2367 Oct  2 17:31 p1fxns.h
+-rw-rw-r-- 1 chris chris 10728 Nov  2 17:27 p1fxns.o
+-rwxrwxr-x 1 chris chris 22168 Nov  2 21:02 thv4
+-rw-rw-r-- 1 chris chris  9165 Nov  2 21:02 thv4.c
+-rw-rw-r-- 1 chris chris  9182 Nov  2 21:02 thv4.c~
+-rw-rw-r-- 1 chris chris 13824 Nov  2 21:02 thv4.o
+
+/proc/18593/status
+This is the name of the process
+This is the state of the process
+/proc/18593/wchan
+This is the execution process
+
+/proc/18593/io
+This is how many chars were read
+This is how many chars were written
+
+process: 18594
+/proc/18594/statustotal 108
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile~
+-rw-rw-r-- 1 chris chris  1669 Nov  2 21:05 out.txt
+-rw-r--r-- 1 chris chris  5815 Nov  2 17:25 p1fxns.c
+-rw-r--r-- 1 chris chris  5815 Nov  1 14:34 p1fxns.c~
+-rw-r--r-- 1 chris chris  2367 Oct  2 17:31 p1fxns.h
+-rw-rw-r-- 1 chris chris 10728 Nov  2 17:27 p1fxns.o
+-rwxrwxr-x 1 chris chris 22168 Nov  2 21:02 thv4
+-rw-rw-r-- 1 chris chris  9165 Nov  2 21:02 thv4.c
+-rw-rw-r-- 1 chris chris  9182 Nov  2 21:02 thv4.c~
+-rw-rw-r-- 1 chris chris 13824 Nov  2 21:02 thv4.o
+
+This is the name of the process
+This is the state of the process
+/proc/18594/wchan
+This is the execution process
+
+/proc/18594/io
+This is how many chars were read
+This is how many chars were written
+
+process: 18595total 108
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile~
+-rw-rw-r-- 1 chris chris  2468 Nov  2 21:05 out.txt
+-rw-r--r-- 1 chris chris  5815 Nov  2 17:25 p1fxns.c
+-rw-r--r-- 1 chris chris  5815 Nov  1 14:34 p1fxns.c~
+-rw-r--r-- 1 chris chris  2367 Oct  2 17:31 p1fxns.h
+-rw-rw-r-- 1 chris chris 10728 Nov  2 17:27 p1fxns.o
+-rwxrwxr-x 1 chris chris 22168 Nov  2 21:02 thv4
+-rw-rw-r-- 1 chris chris  9165 Nov  2 21:02 thv4.c
+-rw-rw-r-- 1 chris chris  9182 Nov  2 21:02 thv4.c~
+-rw-rw-r-- 1 chris chris 13824 Nov  2 21:02 thv4.o
+
+/proc/18595/status
+This is the name of the process
+This is the state of the process
+/proc/18595/wchan
+This is the execution process
+
+/proc/18595/io
+This is how many chars were read
+This is how many chars were written
+
+process: 18596total 108
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile
+-rw-rw-r-- 1 chris chris   187 Nov  2 16:08 Makefile~
+-rw-rw-r-- 1 chris chris  3286 Nov  2 21:05 out.txt
+-rw-r--r-- 1 chris chris  5815 Nov  2 17:25 p1fxns.c
+-rw-r--r-- 1 chris chris  5815 Nov  1 14:34 p1fxns.c~
+-rw-r--r-- 1 chris chris  2367 Oct  2 17:31 p1fxns.h
+-rw-rw-r-- 1 chris chris 10728 Nov  2 17:27 p1fxns.o
+-rwxrwxr-x 1 chris chris 22168 Nov  2 21:02 thv4
+-rw-rw-r-- 1 chris chris  9165 Nov  2 21:02 thv4.c
+-rw-rw-r-- 1 chris chris  9182 Nov  2 21:02 thv4.c~
+-rw-rw-r-- 1 chris chris 13824 Nov  2 21:02 thv4.o
+
+/proc/18596/status
+This is the name of the process
+This is the state of the process
+/proc/18596/wchan
+This is the execution process
+
+/proc/18596/io
+This is how many chars were read
+This is how many chars were written
+
+The elapsed time to execute 5 copies of ls on 1 processors is 20.402 seconds
